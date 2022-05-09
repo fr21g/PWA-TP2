@@ -8,15 +8,16 @@
     <link rel="stylesheet" href="bootstrap-5.1.-dist/js/bootstrap.bundle.min.js"> -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="js/bootstrap.bundle.min.js">
+    <script src="js/bootstrap.js"></script>
     <script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Square+Peg&display=swap" rel="stylesheet">
-<style>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Square+Peg&display=swap" rel="stylesheet">
+    <style>
 
 
-</style>
-    <title>Ejercicio 0</title>
+    </style>
+        <title>Ejercicio 0</title>
 </head>
 
 
